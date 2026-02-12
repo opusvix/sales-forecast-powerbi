@@ -9,7 +9,7 @@ Este projeto demonstra a construção de um dashboard analítico com dados hist�
 - Dashboard em Power BI com storytelling claro
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](docs/images/dashboard.png)
 
 ## 🧠 Destaque técnico
 A principal complexidade do projeto foi garantir que a dimensão de datas cobrisse corretamente
