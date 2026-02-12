@@ -2,8 +2,8 @@
 
 Projeto end-to-end de previsão de vendas utilizando Microsoft Fabric (Lakehouse + Warehouse), modelagem dimensional em SQL e visualização estratégica no Power BI.
 
-## 🔗 Dashboard publicado:
-Visualizar Dashboard
+## 🚀 Dashboard Interativo
+<p align="center"> <a href="https://app.powerbi.com/view?r=eyJrIjoiZTRmMTBmYmYtOGE0Ny00MTc3LTk0OGItZTI3YjE2NjdjYmRiIiwidCI6ImRhM2QxODEwLThlN2YtNGM1Yy1hMzE3LTBjY2I3ZWY2MmIzYSJ9" target="_blank"> <img src="docs/images/dashboard.png" width="850"> </a> </p> <p align="center"> 🔎 Clique na imagem para explorar o dashboard completo </p>
 
 ## 🔗 Documentação (GitHub Pages):
 https://opusvix.github.io/sales-forecast-powerbi/
@@ -38,7 +38,7 @@ O objetivo deste projeto foi construir uma arquitetura analítica moderna, utili
 
 Pipeline implementado:
 
-Lakehouse → Warehouse → Modelagem SQL → Power BI → GitHub Pages
+DataFlow Gen2 → Lakehouse → Warehouse → Modelagem SQL → Power BI → GitHub Pages
 
 🔹 Lakehouse
 
@@ -182,13 +182,15 @@ docs/images/      → Imagens do projeto
 
 data-model/       → Diagrama do modelo
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Stack Utilizada
 
 - Microsoft Fabric
 
+- DataFlow Gen2
+
 - Lakehouse
 
-- Warehouse SQL
+- Warehouse SQL Endpoint
 
 - Power BI (.PBIP)
 
@@ -209,6 +211,14 @@ data-model/       → Diagrama do modelo
 - Implementar CI/CD para versionamento de BI
 
 - Automatizar ingestão via Dataflow Gen2
+
+## 🔗 Links
+
+🌐 Documentação do Projeto
+https://opusvix.github.io/sales-forecast-powerbi/
+
+💼 Portfólio Principal
+https://opusvix.github.io/
 
 ## 👨‍💻 Autor
 
